@@ -1,15 +1,4 @@
-*
+body
 {
-    margin: 0px;
-    padding: 0px;
-}
-table
-{
-    border: 1px;
-    text-align: center;
-    border-color: red;
-}
-#perfil
-{
-    border-radius: 50%;
+    font-family: Arial, Helvetica, sans-serif;
 }
